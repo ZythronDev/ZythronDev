@@ -8,7 +8,7 @@
 
 ## 📖 Sobre mí
 
-🎮 Soy **Zythron**, un entusiasta de la programación que busca crear soluciones elegantes y funcionales.  
+🎮 Soy **Alvaro Vera**, conocido como **Zythron**, un entusiasta de la programación que busca crear soluciones elegantes y funcionales.  
 📚 Actualmente aprendiendo **Java**, **Spring Framework**, **Spring Boot**, **Docker**, **MySQL**, **MongoDB**, **PostgreSQL** y buenas prácticas de **Git/GitHub**.  
 🚀 Mi objetivo es crecer como desarrollador backend y participar en proyectos desafiantes.  
 
